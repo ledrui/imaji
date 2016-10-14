@@ -9,7 +9,7 @@ Using your favorite IDE / IntelliJ or Eclipse
 import the project by the pom file
 
 ## Eclipse import :
-`file -> Import settings -> / "path to your project directory"
+```file -> Import settings -> / "path to your project directory"
 
 ## Intellij import:
-`file -> new -> project from an exixting source -> "path to your project directory"
+```file -> new -> project from an exixting source -> "path to your project directory"
