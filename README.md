@@ -1,5 +1,5 @@
 # imaji
-*Imaji* is the backend of a photo sharing app built with Spring framework-hibernate and deolyed on heroku
+**Imaji** is the backend of a photo sharing app built with Spring framework-hibernate and deolyed on heroku
 
 ## Installation 
 Download/clone the project and unzip into your local machine
